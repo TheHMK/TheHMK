@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheHMK
-- 👀 I’m interested in literally everything which tingles my curiousity
+- 👀 I’m interested in literally everything that tingles my curiousity
 - 🌱 I’m currently working @ Trinamix Inc.
 - 📫 How to reach me on instagram @ https://instagram.com/the_hmk
 
