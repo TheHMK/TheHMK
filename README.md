@@ -10,7 +10,7 @@
 <h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/Dheerajmadhukar/Dheerajmadhukar/main/img/handshake.gif" height="32px"></h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/raulhmk/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/rahulhmk/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
   <!--<code><a href="https://twitter.com/Dheerajmadhukar/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg"> Twitter</a></code>-->
   <code><a href="https://www.instagram.com/the_hmk/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg"> Instagram</a></code>
   <!--<code><a href="https://www.twitch.tv/techn0legends"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitch.svg"> Twitch</a></code>-->
