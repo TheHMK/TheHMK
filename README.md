@@ -1,7 +1,7 @@
-
+<h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi%2C+I+am+Rahul+Harmalkar!!!;I%E2%80%99m+currently+working+%40+Trinamix+Inc.)](https://git.io/typing-svg)
 
-<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!%20How%20you%20doin'?&center=true&size=30">
   </a>
