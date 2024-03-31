@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m @TheHMK
 - 👀 I’m interested in literally everything that tingles my curiousity
 - 🌱 I’m currently working @ Trinamix Inc.
